@@ -1,2 +1,2 @@
 #!/bin/bash
-docker logs first-server -f
+docker logs webserver -f
